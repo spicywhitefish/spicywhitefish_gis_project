@@ -1,3 +1,8 @@
+/*
+ * A collection of Callable and Runnables used for
+ * concurrent data processing. Each callable corresponds
+ * to a data processing method in DataPoint
+ */
 import java.util.List;
 import java.util.concurrent.Callable;
 
