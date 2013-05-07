@@ -340,7 +340,7 @@ public class Application {
 		ExecutorService executor = Executors.newCachedThreadPool();
 		/*
 		 * Easily the ugliest use of generics I have ever committed
-		 * against mankind. I'm sorry. Here's a guide:
+		 * against mankind
 		 * Outer list: loocv results (columns in the text file)
 		 * Inner List: error measuring functions
 		 * Future: result of computation returned by the error 
