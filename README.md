@@ -5,11 +5,8 @@ The final resting place of my group's directed study project.
 Initially created with Subversion on my EC2 server,
 moved to GitHub to showcase some code that I've written for the curious.
 
-I plan on going back and documenting the code better.
-This was a rush job- the entire goes from scratch to
-submitted in <48 hours. Also, I was the primary
-developer for the project. For these two reasons, the
-code was not documented nearly well enough.
+This was a rush job- the entire project goes from scratch to
+submitted in < 48 hours.
 
 /docs has our final write-up, it's a good source of information on the project. THe full project description follows.
 
